@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/VideoUI"/>
+    <qresource prefix="/qss">
+        <file>VideoUI.css</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/main_exit.png</file>
+        <file>images/btn_cut.png</file>
+        <file>images/btn_record.png</file>
+        <file>images/main_edit.png</file>
+        <file>images/main_play.png</file>
+    </qresource>
+</RCC>

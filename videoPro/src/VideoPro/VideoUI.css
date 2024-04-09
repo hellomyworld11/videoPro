@@ -1,0 +1,9 @@
+QPushButton#btnmenu_min,QPushButton#btnmenu_max,QPushButton#btnmenu_close{
+border-radius:3px;
+color:#AAAAAA;
+background-color:#AAAAAA;
+padding:3px;
+margin:0px;
+background:none;
+border-style:none;
+}
